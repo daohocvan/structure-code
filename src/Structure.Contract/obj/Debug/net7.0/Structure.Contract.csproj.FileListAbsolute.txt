@@ -1,0 +1,12 @@
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\bin\Debug\net7.0\Structure.Contract.deps.json
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\bin\Debug\net7.0\Structure.Contract.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\bin\Debug\net7.0\Structure.Contract.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\obj\Debug\net7.0\Structure.Contract.csproj.AssemblyReference.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\obj\Debug\net7.0\Structure.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\obj\Debug\net7.0\Structure.Contract.AssemblyInfoInputs.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\obj\Debug\net7.0\Structure.Contract.AssemblyInfo.cs
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\obj\Debug\net7.0\Structure.Contract.csproj.CoreCompileInputs.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\obj\Debug\net7.0\Structure.Contract.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\obj\Debug\net7.0\refint\Structure.Contract.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\obj\Debug\net7.0\Structure.Contract.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Contract\obj\Debug\net7.0\ref\Structure.Contract.dll

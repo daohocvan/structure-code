@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Structure.Contract\Structure.Contract.csproj" />
+    <ProjectReference Include="..\Structure.Domain\Structure.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstractions\Message\" />
+    <Folder Include="DependencyInjection\Options\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.0" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+</Project>

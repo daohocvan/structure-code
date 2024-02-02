@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Infrastructure\\Structure.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Application\\Structure.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Application\\Structure.Application.csproj",
+        "projectName": "Structure.Application",
+        "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Application\\Structure.Application.csproj",
+        "packagesPath": "C:\\Users\\3794896\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\3794896\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Contract\\Structure.Contract.csproj": {
+                "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Contract\\Structure.Contract.csproj"
+              },
+              "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Domain\\Structure.Domain.csproj": {
+                "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Domain\\Structure.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Contract\\Structure.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Contract\\Structure.Contract.csproj",
+        "projectName": "Structure.Contract",
+        "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Contract\\Structure.Contract.csproj",
+        "packagesPath": "C:\\Users\\3794896\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\3794896\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Domain\\Structure.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Domain\\Structure.Domain.csproj",
+        "projectName": "Structure.Domain",
+        "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Domain\\Structure.Domain.csproj",
+        "packagesPath": "C:\\Users\\3794896\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\3794896\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Infrastructure\\Structure.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Infrastructure\\Structure.Infrastructure.csproj",
+        "projectName": "Structure.Infrastructure",
+        "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Infrastructure\\Structure.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\3794896\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\3794896\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Application\\Structure.Application.csproj": {
+                "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Application\\Structure.Application.csproj"
+              },
+              "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Persistence\\Structure.Persistence.csproj": {
+                "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Persistence\\Structure.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Persistence\\Structure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Persistence\\Structure.Persistence.csproj",
+        "projectName": "Structure.Persistence",
+        "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Persistence\\Structure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\3794896\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\3794896\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Domain\\Structure.Domain.csproj": {
+                "projectPath": "C:\\Users\\3794896\\Desktop\\Structure\\src\\Structure.Domain\\Structure.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.DataAnnotations": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

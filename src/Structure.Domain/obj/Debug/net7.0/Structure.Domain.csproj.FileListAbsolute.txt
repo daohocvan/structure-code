@@ -1,0 +1,12 @@
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\bin\Debug\net7.0\Structure.Domain.deps.json
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\bin\Debug\net7.0\Structure.Domain.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\bin\Debug\net7.0\Structure.Domain.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\obj\Debug\net7.0\Structure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\obj\Debug\net7.0\Structure.Domain.AssemblyInfoInputs.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\obj\Debug\net7.0\Structure.Domain.AssemblyInfo.cs
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\obj\Debug\net7.0\Structure.Domain.csproj.CoreCompileInputs.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\obj\Debug\net7.0\Structure.Domain.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\obj\Debug\net7.0\refint\Structure.Domain.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\obj\Debug\net7.0\Structure.Domain.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\obj\Debug\net7.0\ref\Structure.Domain.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Domain\obj\Debug\net7.0\Structure.Domain.csproj.AssemblyReference.cache

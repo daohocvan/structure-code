@@ -1,0 +1,15 @@
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\bin\Debug\net7.0\Structure.Persistence.deps.json
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\bin\Debug\net7.0\Structure.Persistence.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\bin\Debug\net7.0\Structure.Persistence.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\bin\Debug\net7.0\Structure.Domain.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\bin\Debug\net7.0\Structure.Domain.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\Structure.Persistence.csproj.AssemblyReference.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\Structure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\Structure.Persistence.AssemblyInfoInputs.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\Structure.Persistence.AssemblyInfo.cs
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\Structure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\Structure.Persistence.csproj.CopyComplete
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\Structure.Persistence.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\refint\Structure.Persistence.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\Structure.Persistence.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Persistence\obj\Debug\net7.0\ref\Structure.Persistence.dll

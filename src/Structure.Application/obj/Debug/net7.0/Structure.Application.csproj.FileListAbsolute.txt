@@ -1,0 +1,17 @@
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\bin\Debug\net7.0\Structure.Application.deps.json
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\bin\Debug\net7.0\Structure.Application.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\bin\Debug\net7.0\Structure.Application.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\bin\Debug\net7.0\Structure.Domain.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\bin\Debug\net7.0\Structure.Domain.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\Structure.Application.csproj.AssemblyReference.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\Structure.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\Structure.Application.AssemblyInfoInputs.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\Structure.Application.AssemblyInfo.cs
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\Structure.Application.csproj.CoreCompileInputs.cache
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\Structure.Application.csproj.CopyComplete
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\Structure.Application.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\refint\Structure.Application.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\Structure.Application.pdb
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\obj\Debug\net7.0\ref\Structure.Application.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\bin\Debug\net7.0\Structure.Contract.dll
+C:\Users\3794896\Desktop\Structure\src\Structure.Application\bin\Debug\net7.0\Structure.Contract.pdb
